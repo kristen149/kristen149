@@ -9,7 +9,7 @@ discovering new fields, pursuing interdisciplinary learning and taking on challe
 <strong>About me: </strong>
  <ul>
   <li>📘My most used programming language: HTML, CSS, PHP, SQL, Java </li>
-  <li>📕Besides I have good knowledge in English, German, Chinsese and Vietnamese</li>
+  <li>📕Besides I have good knowledge in English, German, Chinese and Vietnamese</li>
   <li>❤️I love to understand customer behaviors and intercultural communication</li>
 
   </ul>
