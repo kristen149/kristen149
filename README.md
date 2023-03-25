@@ -13,7 +13,6 @@ discovering new fields, pursuing interdisciplinary learning and taking on challe
   <li>❤️I love to understand customer behaviors and intercultural communication</li>
 
   </ul>
-
 📫 Contact me through E-mail: lylyty08@gmail.com
 
 <br>
