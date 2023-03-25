@@ -1,13 +1,23 @@
-### HEY THERE! WELCOME TO MY PAGE 
-My name is Kristen Tran. I am an B.Sc. in International Business and Trade.
+✨✨✨<strong> WELCOME TO MY PAGE</strong> ✨✨✨
+
+<p> My name is Kristen Tran. I am an B.Sc. in International Business and Trade.
 
 As a graduate student from Taiwan with extensive international experience, I look forward to I look forward to developing my career in more technical fields. I have always been passionate about
-discovering new fields, pursuing interdisciplinary learning and taking on challenges.
+discovering new fields, pursuing interdisciplinary learning and taking on challenges. </p> 
+<br>
 
-E-mail: lylyty08@gmail.com
+<strong>About me: </strong>
+ <ul>
+  <li>📘My most used programming language: HTML, CSS, PHP, SQL, Java </li>
+  <li>📕Besides I have good knowledge in English, German, Chinsese and Vietnamese</li>
+  <li>❤️I love to understand customer behaviors and intercultural communication</li>
+
+  </ul>
+
+📫 Contact me through E-mail: lylyty08@gmail.com
 
 <br>
-## 📫 More Information: 
+## <strong> More Information: </strong> 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kristenchen149/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kristen149/) 
 
