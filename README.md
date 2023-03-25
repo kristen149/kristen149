@@ -28,5 +28,5 @@ discovering new fields, pursuing interdisciplinary learning and taking on challe
 
 <a href="https://github.com/kristen149/User-Login-Signup">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=User-Login-Signup&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=User-Login-Signup&theme=tokyonight" />
 </a>
