@@ -2,8 +2,7 @@
 
 <p> My name is Kristen Tran. I am a B.Sc. in International Business and Trade.
 
-As a graduate student from Taiwan with extensive international experience, I look forward to developing my career in more technical knowledge. I have always been passionate about
-discovering new fields, pursuing interdisciplinary learning and taking on challenges. </p> 
+As a graduate student from Taiwan with extensive international experience, I look forward to developing my career in more technical knowledge. I have always been passionate about discovering digital transformation, pursuing IT management/Business Intelligence and eagering to take on challenges. </p> 
 <br>
 
 <strong>About me: </strong>
