@@ -8,7 +8,7 @@ discovering new fields, pursuing interdisciplinary learning and taking on challe
 
 <strong>About me: </strong>
  <ul>
-  <li>📘My most used programming languages: HTML, CSS, PHP, SQL Java </li>
+  <li>📘My most used programming languages: HTML, CSS, PHP, SQL, Java </li>
   <li>📕Besides I have good knowledge in English, German, Chinese and Vietnamese</li>
   <li>❤️I love to understand customer behaviors and intercultural communication</li>
 
@@ -22,11 +22,13 @@ discovering new fields, pursuing interdisciplinary learning and taking on challe
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149)](https://github.com/kristen149/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149&langs_count=8)](https://github.com/kristen149/github-readme-stats)
+
+
 
 <a href="https://github.com/kristen149/Online-Shopping-Store">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=Online-Shopping-Store&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=Online-Shopping-Store&theme=dark" />
 </a>
 
 
