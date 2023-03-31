@@ -24,6 +24,11 @@ discovering new fields, pursuing interdisciplinary learning and taking on challe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149)](https://github.com/kristen149/github-readme-stats) 
 
+<a href="[https://github.com/kristen149/Online_Shopping_Store](https://github.com/kristen149/Online-Shopping-Store)">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=Online-Shopping-Store&theme=tokyonight" />
+</a>
+
 
 
 <a href="https://github.com/kristen149/User-Login-Signup">
