@@ -8,7 +8,6 @@ As a graduate student from Taiwan with extensive international experience, I loo
 <strong>About me: </strong>
  <ul>
   <li>📘My most used programming languages: HTML, CSS, PHP, SQL, Javascript </li>
-  <li>📕Besides I have good knowledge in English, German, Chinese and Vietnamese</li>
   <li>❤️I love to understand customer behaviors and intercultural communication</li>
 
   </ul>
