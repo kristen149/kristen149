@@ -1,8 +1,7 @@
 ✨✨✨<strong> WELCOME TO MY PAGE</strong> ✨✨✨
 
 <p> My name is Kristen Tran. I am a B.Sc. in International Business and Trade.
-
-I look forward to developing my career in more technical fields. I have always been passionate about discovering digital transformation and eagering to take on challenges. </p> 
+I have always been passionate about discovering digital transformation and eagering to take on challenges. In the near future I look forward to developing my career in more technical fields. </p> 
 <br>
 
 <strong>About me: </strong>
