@@ -18,15 +18,13 @@ As a graduate student from Taiwan with extensive international experience, I loo
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kristenchen149/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kristen149/) 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149&langs_count=8)](https://github.com/kristen149/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149&langs_count=9)](https://github.com/kristen149/github-readme-stats)
 
 
 
-<a href="https://github.com/kristen149/Online-Shopping-Store">
+<a href="https://github.com/kristen149/online_shopping_store">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=Online-Shopping-Store&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=online_shopping_store&theme=dark" />
 </a>
 
 
