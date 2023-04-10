@@ -3,11 +3,12 @@
 <p> My name is Kristen Tran. I am a B.Sc. in International Business and Trade.
 I have always been passionate about discovering digital transformation and eagering to take on challenges. In the near future I look forward to developing my career in more technical fields. </p> 
 <br>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <strong>About me: </strong>
  <ul>
   <li>📘Technical skills: HTML, CSS, PHP, SQL, Javascript, Bootstrap </li>
-  <li>Business software: Jira, MS Office </li>
+  <li>📕 Business software: Jira, MS Office </li>
 
   </ul>
 📫 Contact me through E-mail: lylyty08@gmail.com
