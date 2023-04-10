@@ -8,7 +8,7 @@ I have always been passionate about discovering digital transformation and eager
 <strong>About me: </strong>
  <ul>
   <li>📘Technical skills: HTML, CSS, PHP, SQL, Javascript, Bootstrap </li>
-  <li>📕 Business software: Jira, MS Office </li>
+  <li>📕Business software: Jira, MS Office </li>
 
   </ul>
 📫 Contact me through E-mail: lylyty08@gmail.com
