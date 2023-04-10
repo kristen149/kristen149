@@ -5,16 +5,23 @@ I have always been passionate about discovering digital transformation and eager
 <br>
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<strong>About me: </strong>
- <ul>
-  <li>📘Technical skills: HTML, CSS, PHP, SQL, Javascript, Bootstrap </li>
-  <li>📕Business software: Jira, MS Office </li>
+ 
+## <strong>Programming languages and Tools: </strong>
+ 
 
-  </ul>
-📫 Contact me through E-mail: lylyty08@gmail.com
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' height = "100">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg' height = "100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' height = "100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="100">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg' height = "100">
 
-<br>
-## <strong> More Information: </strong> 
+
+<br><br>
+ 📫 Contact me through E-mail: <a href = "mailto:lylyty08@gmail.com"> lylyty08@gmail.com </a>
+
+<br></br>
+<strong> More Information: </strong> 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kristenchen149/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kristen149/) 
 
