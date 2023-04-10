@@ -17,7 +17,7 @@
 
 
 <br><br>
- 📫 Contact me through E-mail: <a href = "mailto:lylyty08@gmail.com"> lylyty08@gmail.com </a>
+  <a href = "mailto:lylyty08@gmail.com"> 📫 Contact me through E-mail: lylyty08@gmail.com </a>
 
 <br></br>
 <strong> More Information: </strong> 
