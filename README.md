@@ -1,6 +1,6 @@
 ✨✨✨<strong> WELCOME TO KRISTEN'S PAGE</strong> ✨✨✨
 
-<p> Kristen Tran has recently completed the Bachelor of Science in International Business and Trade in Taipei, Taiwan. She has always been passionate about developing digital transformation in business and discovering innovative technologies. Besides "computer languages" she is also interested in "human languages". She has a good command of English, German, Chinese and tiếng Việt.  </p> 
+<p> Kristen Tran has recently completed the Bachelor of Science in International Business and Trade in Taipei, Taiwan. She has always been passionate about developing digital transformation in business and discovering innovative technologies. Besides "computer languages" she is also interested in "human languages". She has a good command of English, Deutsch, Chinese 中文 and tiếng Việt.  </p> 
 <br>
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
