@@ -2,8 +2,7 @@
 
 <p> Kristen Tran has recently completed the Bachelor of Science in International Business and Trade in Taipei, Taiwan. She has always been passionate about developing digital transformation in business and discovering innovative technologies. Besides "computer languages" she is also interested in "human languages". She has a good command of English, Deutsch, Chinese 中文 and tiếng Việt.  </p> 
 <br>
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
+   
  
 ## <strong>Programming languages and Tools: </strong>
  
@@ -24,7 +23,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kristenchen149/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kristen149/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149&langs_count=9)](https://github.com/kristen149/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149&langs_count=8)](https://github.com/kristen149/github-readme-stats)
 
 
 
