@@ -4,7 +4,7 @@
 <br>
    
  
-## <strong>Programming languages and Tool: </strong>
+## <strong>Programming languages and Tools: </strong>
  
 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100"><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' height = "100">
