@@ -23,7 +23,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kristenchen149/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kristen149/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149&langs_count=8)](https://github.com/kristen149/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149&langs_count=9)](https://github.com/kristen149/github-readme-stats)
 
 
 
@@ -32,9 +32,10 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=online_shopping_store&theme=dark" />
 </a>
 
-
-
-<a href="https://github.com/kristen149/User-Login-Signup">
+<div>
+<a href="https://github.com/kristen149/Uber-price-estimator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=User-Login-Signup&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=Uber-price-estimator&theme=tokyonight" />
 </a>
+   <div/>
+
