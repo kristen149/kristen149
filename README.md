@@ -1,6 +1,6 @@
 ✨✨✨<strong> WELCOME TO KRISTEN'S PAGE</strong> ✨✨✨
 
-<p> Kristen Tran has recently completed the Bachelor of Science in International Business and Trade in Taipei, Taiwan. She has always been passionate about developing digital transformation in business and discovering innovative technologies. Besides "computer languages" she is also interested in "human languages". She has a good command of English, Deutsch, Chinese 中文 and tiếng Việt.  </p> 
+<p> Kristen has recently completed the Bachelor of Science in International Business and Trade in Taipei, Taiwan. She has always been passionate about developing digital transformation in business and discovering innovative technologies. Besides "computer languages" she is also interested in "human languages". She has a good command of English, Deutsch, Chinese 中文 and tiếng Việt.  </p> 
 <br>
    
  
@@ -23,9 +23,17 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kristenchen149/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kristen149/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149&langs_count=8)](https://github.com/kristen149/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristen149&langs_count=9)](https://github.com/kristen149/github-readme-stats)
 
 
+
+
+<div>
+<a href="https://github.com/kristen149/student_mangement_OOP">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=student_mangement_OOP&theme=tokyonight" />
+</a>
+   <div/>
 
 <a href="https://github.com/kristen149/online_shopping_store">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -39,10 +47,5 @@
 </a>
    <div/>
    
-   <div>
-<a href="https://github.com/kristen149/studentForm_JsOOP">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=studentForm_JsOOP&theme=tokyonight" />
-</a>
-   <div/>
+   
 
