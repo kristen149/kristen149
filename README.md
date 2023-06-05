@@ -36,23 +36,17 @@
 
 
 <div>
-<a href="https://github.com/kristen149/student_mangement_OOP">
+<a href="https://github.com/kristen149/weather-app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=student_mangement_OOP&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=weather-app&theme=tokyonight" />
 </a>
    <div/>
    
-  <a href="https://github.com/kristen149/weather-app">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=weather-app&theme=dark" />
-</a>
-
-
 
 <div>
 <a href="https://github.com/kristen149/virtual-glasses">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=virtual-glasses&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=virtual-glasses&theme=dark" />
 </a>
    <div/>
    
