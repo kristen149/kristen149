@@ -42,9 +42,9 @@
 </a>
    <div/>
 
-<a href="https://github.com/kristen149/online_shopping_store">
+<a href="https://github.com/kristen149/weather-app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=online_shopping_store&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=weather-app&theme=dark" />
 </a>
 
 <div>
