@@ -27,9 +27,9 @@
 
 
 <div>
-<a href="https://github.com/kristen149/todolist">
+<a href="https://github.com/kristen149/smartkita">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=todolist&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kristen149&repo=smartkita&theme=dark" />
 </a>
    <div/>
 
