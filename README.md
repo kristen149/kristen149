@@ -1,6 +1,6 @@
 ✨✨✨<strong> WELCOME TO KRISTEN'S PAGE</strong> ✨✨✨
 
-<p> Kristen has recently completed the Bachelor of Science in International Business and Trade in Taipei, Taiwan. She has always been passionate about developing digital transformation in business and discovering innovative technologies. Besides "computer languages" she is also interested in "human languages". She has a good command of English, Deutsch, Chinese 中文 and tiếng Việt.  </p> 
+<p> Kristen has recently completed the Bachelor of Science in International Business and Trade in Taipei, Taiwan. She has always been passionate about developing digital transformation in business and discovering innovative technologies.  </p> 
 <br>
    
  
