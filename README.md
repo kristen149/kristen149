@@ -1,9 +1,7 @@
-✨✨✨<strong> WELCOME TO KRISTEN'S PAGE</strong> ✨✨✨
+✨✨✨<strong> WELCOME TO MINH'S PAGE</strong> ✨✨✨
 
-<p> Kristen has recently completed the Bachelor of Science in International Business and Trade in Taipei, Taiwan. She has always been passionate about developing digital transformation in business and discovering innovative technologies.  </p> 
-<br>
    
- 
+MSc. International Information System at Friedrich Alexander Universität Erlangen - Nürnberg
 ## <strong>Programming languages and Tools: </strong>
  
 
